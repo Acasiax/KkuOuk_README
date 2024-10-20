@@ -33,7 +33,7 @@
 - **멀티미디어**: AVFoundation – 사용자 입력 시 사운드 제공  
 
 ## 라이브러리
-- Lottie, AVFoundation, RxSwift, SnapKit
+- UIKit, Lottie, AVFoundation
 
 ## 📁 디렉토리 구조
 
