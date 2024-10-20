@@ -1,19 +1,14 @@
 # 꾸욱 - 키오스크 연습 어플
 <img src="https://github.com/user-attachments/assets/0e899d35-b0b2-400a-bb46-b3be9f06f1e0" alt="appstore" width="120" height="120">
 
-## 프로젝트 소개
+## 🕵️프로젝트 소개
 '꾸욱'은 키오스크 환경에서 유저가 다양한 인터페이스를 연습할 수 있도록 개발된 어플리케이션입니다. 사용자는 Lottie 애니메이션과 AVFoundation으로 구현된 효과음을 통해 시각적, 청각적 피드백을 얻으며 인터페이스 사용을 익힐 수 있습니다. 이 앱은 자주 사용하는 키오스크 기능에 대한 사용 편의성을 높이기 위해 직관적인 UI로 설계되었습니다.
 
-## 프로젝트 파일
+## 🕵️프로젝트 파일
 [프로젝트 파일](https://github.com/Acasiax/kkookApp)
 
-## 스크린샷
-![꾸욱-스크린샷](https://github.com/user-attachments/assets/kkook-app-screenshot.png)
-
-## 📱 시뮬레이션
-| 메인 화면 | 기능 선택 화면 | 사용 방법 화면 | 완료 화면 |
-|---------------|---------------|---------------|---------------|
-| <img src="https://github.com/user-attachments/assets/main-screen.png" width="200" /> | <img src="https://github.com/user-attachments/assets/feature-select.png" width="200" /> | <img src="https://github.com/user-attachments/assets/how-to-use.png" width="200" /> | <img src="https://github.com/user-attachments/assets/completion.png" width="200" /> |
+## 📷 스크린샷
+![꾸욱리드미사진얇게-001](https://github.com/user-attachments/assets/976d877a-3041-41bc-9bd3-2cb80d404db6)
 
 ## ⚙️ 주요 기능
 - **Lottie 애니메이션**: 화면 전환 및 주요 버튼에 애니메이션 효과 제공  
